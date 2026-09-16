@@ -122,3 +122,7 @@ Contém exercícios, exemplos e práticas voltadas ao estudo de <b>HTML, CSS, JA
 * [🌐 GitHub Pages](https://muristack.github.io/Atividade-14/)
 
 </details>
+
+<details>
+<summary>### Extras</summary>
+</details>
