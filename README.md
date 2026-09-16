@@ -123,8 +123,6 @@ Contém exercícios, exemplos e práticas voltadas ao estudo de <b>HTML, CSS, JA
 
 </details>
 
---- 
-
 ## Extras
 
 <details>
