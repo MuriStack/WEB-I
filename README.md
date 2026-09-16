@@ -125,7 +125,7 @@ Contém exercícios, exemplos e práticas voltadas ao estudo de <b>HTML, CSS, JA
 
 --- 
 
-### Extras
+## Extras
 
 <details>
 <summary><b>Oficina de Tecnologia</b></summary>
