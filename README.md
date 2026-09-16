@@ -123,7 +123,7 @@ Contém exercícios, exemplos e práticas voltadas ao estudo de <b>HTML, CSS, JA
 
 </details>
 
-##
+---
 
 ## Extras 📦
 
@@ -134,4 +134,3 @@ Contém exercícios, exemplos e práticas voltadas ao estudo de <b>HTML, CSS, JA
 * [🌐 GitHub Pages](https://muristack.github.io/Oficina_tecnologia/)
 
 </details>
-
