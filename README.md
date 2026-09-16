@@ -123,6 +123,15 @@ Contém exercícios, exemplos e práticas voltadas ao estudo de <b>HTML, CSS, JA
 
 </details>
 
-<details>
-<summary>### Extras</summary>
+--- 
+
+### Extras
+
+details>
+<summary><b>Oficina de Tecnologia</b></summary>
+
+* [🔗 Repositório da Atividade](https://github.com/MuriStack/Oficina_tecnologia)
+* [🌐 GitHub Pages](https://muristack.github.io/Oficina_tecnologia/)
+
 </details>
+
