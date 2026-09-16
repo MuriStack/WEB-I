@@ -134,3 +134,63 @@ Contém exercícios, exemplos e práticas voltadas ao estudo de <b>HTML, CSS, JA
 * [🌐 GitHub Pages](https://muristack.github.io/Oficina_tecnologia/)
 
 </details>
+
+---
+
+## Projetos 🚀
+
+<details>
+<summary><b>Projeto 1</b></summary>
+
+* [🔗 Repositório do Projeto](https://github.com/MuriStack/Apresentacao_Pessoal)
+* [🌐 GitHub Pages](https://muristack.github.io/Apresentacao_Pessoal/)
+
+</details>
+
+<details>
+<summary><b>Projeto 2</b></summary>
+
+* [🔗 Repositório do Projeto](https://github.com/MuriStack/Projeto-2)
+* [🌐 GitHub Pages](https://muristack.github.io/Projeto-2/)
+
+</details>
+
+<details>
+<summary><b>Projeto 3</b></summary>
+
+* [🔗 Repositório do Projeto](https://github.com/MuriStack/Projeto-3)
+* [🌐 GitHub Pages](https://muristack.github.io/Projeto-3/)
+
+</details>
+
+<details>
+<summary><b>Projeto 4</b></summary>
+
+* [🔗 Repositório do Projeto](https://github.com/MuriStack/Projeto-4)
+* [🌐 GitHub Pages](https://muristack.github.io/Projeto-4/)
+
+</details>
+
+<details>
+<summary><b>Projeto 5</b></summary>
+
+* [🔗 Repositório do Projeto](https://github.com/MuriStack/Projeto-5)
+* [🌐 GitHub Pages](https://muristack.github.io/Projeto-5/)
+
+</details>
+
+<details>
+<summary><b>Projeto 6</b></summary>
+
+* [🔗 Repositório do Projeto](https://github.com/MuriStack/Projeto-6)
+* [🌐 GitHub Pages](https://muristack.github.io/Projeto-6/)
+
+</details>
+
+<details>
+<summary><b>Projeto 7</b></summary>
+
+* [🔗 Repositório do Projeto](https://github.com/MuriStack/Projeto-7)
+* [🌐 GitHub Pages](https://muristack.github.io/Projeto-7/)
+
+</details>
