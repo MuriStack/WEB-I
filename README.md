@@ -14,111 +14,111 @@ Contém exercícios, exemplos e práticas voltadas ao estudo de <b>HTML, CSS, JA
 <details>
 <summary><b>Atividade 1</b></summary>
 
-* [🔗 Repositório da Atividade](link-do-repositorio-1)
-* [🌐 GitHub Pages](link-do-pages-1)
+* [🔗 Repositório da Atividade](https://github.com/MuriStack/Atividade-1)
+* [🌐 GitHub Pages](https://muristack.github.io/Atividade-1/)
 
 </details>
 
 <details>
 <summary><b>Atividade 2</b></summary>
 
-* [🔗 Repositório da Atividade](link-do-repositorio-2)
-* [🌐 GitHub Pages](link-do-pages-2)
+* [🔗 Repositório da Atividade](https://github.com/MuriStack/Atividade-2)
+* [🌐 GitHub Pages](https://muristack.github.io/Atividade-2/)
 
 </details>
 
 <details>
 <summary><b>Atividade 3</b></summary>
 
-* [🔗 Repositório da Atividade](link-do-repositorio-3)
-* [🌐 GitHub Pages](link-do-pages-3)
+* [🔗 Repositório da Atividade](https://github.com/MuriStack/Atividade-3)
+* [🌐 GitHub Pages](https://muristack.github.io/Atividade-3/)
 
 </details>
 
 <details>
 <summary><b>Atividade 4</b></summary>
 
-* [🔗 Repositório da Atividade](link-do-repositorio-4)
-* [🌐 GitHub Pages](link-do-pages-4)
+* [🔗 Repositório da Atividade](https://github.com/MuriStack/Atividade-4)
+* [🌐 GitHub Pages](https://muristack.github.io/Atividade-4/)
 
 </details>
 
 <details>
 <summary><b>Atividade 5</b></summary>
 
-* [🔗 Repositório da Atividade](link-do-repositorio-5)
-* [🌐 GitHub Pages](link-do-pages-5)
+* [🔗 Repositório da Atividade](https://github.com/MuriStack/Atividade-5)
+* [🌐 GitHub Pages](https://muristack.github.io/Atividade-5/)
 
 </details>
 
 <details>
 <summary><b>Atividade 6</b></summary>
 
-* [🔗 Repositório da Atividade](link-do-repositorio-6)
-* [🌐 GitHub Pages](link-do-pages-6)
+* [🔗 Repositório da Atividade](https://github.com/MuriStack/Atividade-6)
+* [🌐 GitHub Pages](https://muristack.github.io/Atividade-6/)
 
 </details>
 
 <details>
 <summary><b>Atividade 7</b></summary>
 
-* [🔗 Repositório da Atividade](link-do-repositorio-7)
-* [🌐 GitHub Pages](link-do-pages-7)
+* [🔗 Repositório da Atividade](https://github.com/MuriStack/Atividade-7)
+* [🌐 GitHub Pages](https://muristack.github.io/Atividade-7/)
 
 </details>
 
 <details>
 <summary><b>Atividade 8</b></summary>
 
-* [🔗 Repositório da Atividade](link-do-repositorio-8)
-* [🌐 GitHub Pages](link-do-pages-8)
+* [🔗 Repositório da Atividade](https://github.com/MuriStack/Atividade-8)
+* [🌐 GitHub Pages](https://muristack.github.io/Atividade-8/)
 
 </details>
 
 <details>
 <summary><b>Atividade 9</b></summary>
 
-* [🔗 Repositório da Atividade](link-do-repositorio-9)
-* [🌐 GitHub Pages](link-do-pages-9)
+* [🔗 Repositório da Atividade](https://github.com/MuriStack/Atividade-9)
+* [🌐 GitHub Pages](https://muristack.github.io/Atividade-9/)
 
 </details>
 
 <details>
 <summary><b>Atividade 10</b></summary>
 
-* [🔗 Repositório da Atividade](link-do-repositorio-10)
-* [🌐 GitHub Pages](link-do-pages-10)
+* [🔗 Repositório da Atividade](https://github.com/MuriStack/Atividade-10)
+* [🌐 GitHub Pages](https://muristack.github.io/Atividade-10/)
 
 </details>
 
 <details>
 <summary><b>Atividade 11</b></summary>
 
-* [🔗 Repositório da Atividade](link-do-repositorio-11)
-* [🌐 GitHub Pages](link-do-pages-11)
+* [🔗 Repositório da Atividade](https://github.com/MuriStack/Atividade-11)
+* [🌐 GitHub Pages](https://muristack.github.io/Atividade-11/)
 
 </details>
 
 <details>
 <summary><b>Atividade 12</b></summary>
 
-* [🔗 Repositório da Atividade](link-do-repositorio-12)
-* [🌐 GitHub Pages](link-do-pages-12)
+* [🔗 Repositório da Atividade](https://github.com/MuriStack/Atividade-12)
+* [🌐 GitHub Pages](https://muristack.github.io/Atividade-12/)
 
 </details>
 
 <details>
 <summary><b>Atividade 13</b></summary>
 
-* [🔗 Repositório da Atividade](link-do-repositorio-13)
-* [🌐 GitHub Pages](link-do-pages-13)
+* [🔗 Repositório da Atividade](https://github.com/MuriStack/Atividade-13)
+* [🌐 GitHub Pages](https://muristack.github.io/Atividade-13/)
 
 </details>
 
 <details>
 <summary><b>Atividade 14</b></summary>
 
-* [🔗 Repositório da Atividade](link-do-repositorio-14)
-* [🌐 GitHub Pages](link-do-pages-14)
+* [🔗 Repositório da Atividade](https://github.com/MuriStack/Atividade-14)
+* [🌐 GitHub Pages](https://muristack.github.io/Atividade-14/)
 
 </details>
