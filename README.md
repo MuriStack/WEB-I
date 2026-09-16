@@ -138,8 +138,8 @@ Contém exercícios, exemplos e práticas voltadas ao estudo de <b>HTML, CSS, JA
 <details>
 <summary><b>Projeto 2</b></summary>
 
-* [🔗 Repositório do Projeto](https://github.com/MuriStack/Projeto-2)
-* [🌐 GitHub Pages](https://muristack.github.io/Projeto-2/)
+* [🔗 Repositório do Projeto](https://github.com/MuriStack/Portfolio_Imagens)
+* [🌐 GitHub Pages](https://muristack.github.io/Portfolio_Imagens/)
 
 </details>
 
