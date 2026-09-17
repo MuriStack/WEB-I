@@ -178,8 +178,8 @@ Contém exercícios, exemplos e práticas voltadas ao estudo de <b>HTML, CSS, JA
 <details>
 <summary><b>Projeto 7</b></summary>
 
-* [🔗 Repositório do Projeto](https://github.com/MuriStack/Projeto-7)
-* [🌐 GitHub Pages](https://muristack.github.io/Projeto-7/)
+* [🔗 Repositório do Projeto](https://github.com/MuriStack/Cadastro_Usuario)
+* [🌐 GitHub Pages](https://muristack.github.io/Cadastro_Usuario/)
 
 </details>
 
