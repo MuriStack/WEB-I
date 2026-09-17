@@ -162,8 +162,8 @@ Contém exercícios, exemplos e práticas voltadas ao estudo de <b>HTML, CSS, JA
 <details>
 <summary><b>Projeto 5</b></summary>
 
-* [🔗 Repositório do Projeto](https://github.com/MuriStack/Projeto-5)
-* [🌐 GitHub Pages](https://muristack.github.io/Projeto-5/)
+* [🔗 Repositório do Projeto](https://github.com/MuriStack/Tabela_Notas)
+* [🌐 GitHub Pages](https://muristack.github.io/Tabela_Notas/)
 
 </details>
 
