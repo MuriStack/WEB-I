@@ -170,8 +170,8 @@ Contém exercícios, exemplos e práticas voltadas ao estudo de <b>HTML, CSS, JA
 <details>
 <summary><b>Projeto 6</b></summary>
 
-* [🔗 Repositório do Projeto](https://github.com/MuriStack/Projeto-6)
-* [🌐 GitHub Pages](https://muristack.github.io/Projeto-6/)
+* [🔗 Repositório do Projeto](https://github.com/MuriStack/Roteiro_Viagens)
+* [🌐 GitHub Pages](https://muristack.github.io/Roteiro_Viagens/)
 
 </details>
 
