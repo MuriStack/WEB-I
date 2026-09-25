@@ -220,10 +220,10 @@ Contém exercícios, exemplos e práticas voltadas ao estudo de <b>HTML, CSS, JA
 </details>
 
 <details>
-<summary><b>Extra 5</b></summary>
+<summary><b>Formulário de Cadastro</b></summary>
 
-* [🔗 Repositório da Atividade](https://github.com/MuriStack/Extra-5)
-* [🌐 GitHub Pages](https://muristack.github.io/Extra-5/)
+* [🔗 Repositório da Atividade](https://github.com/MuriStack/form_cadastro)
+* [🌐 GitHub Pages](https://muristack.github.io/form_cadastro/)
 
 </details>
 
