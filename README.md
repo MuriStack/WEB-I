@@ -214,8 +214,8 @@ Contém exercícios, exemplos e práticas voltadas ao estudo de <b>HTML, CSS, JA
 <details>
 <summary><b>Extra 4</b></summary>
 
-* [🔗 Repositório da Atividade](https://github.com/MuriStack/Extra-4)
-* [🌐 GitHub Pages](https://muristack.github.io/Extra-4/)
+* [🔗 Repositório da Atividade](https://github.com/MuriStack/Web_Images)
+* [🌐 GitHub Pages](https://muristack.github.io/Web_Images/)
 
 </details>
 
