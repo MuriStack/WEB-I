@@ -212,7 +212,7 @@ Contém exercícios, exemplos e práticas voltadas ao estudo de <b>HTML, CSS, JA
 </details>
 
 <details>
-<summary><b>Extra 4</b></summary>
+<summary><b>Inserção de imagens</b></summary>
 
 * [🔗 Repositório da Atividade](https://github.com/MuriStack/Web_Images)
 * [🌐 GitHub Pages](https://muristack.github.io/Web_Images/)
