@@ -228,9 +228,9 @@ Contém exercícios, exemplos e práticas voltadas ao estudo de <b>HTML, CSS, JA
 </details>
 
 <details>
-<summary><b>Extra 6</b></summary>
+<summary><b>Formulário de Viagem</b></summary>
 
-* [🔗 Repositório da Atividade](https://github.com/MuriStack/Extra-6)
-* [🌐 GitHub Pages](https://muristack.github.io/Extra-6/)
+* [🔗 Repositório da Atividade](https://github.com/MuriStack/Formulario_Viagem)
+* [🌐 GitHub Pages](https://muristack.github.io/Formulario_Viagem/)
 
 </details>
