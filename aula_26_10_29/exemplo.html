@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Posicionamento</title>
+        <style>
+            .box{
+                width: 100px;
+                height: 100px;
+                text-align: center;
+            }
+
+            .static{
+                background-color: lightblue;
+                position: static;
+            }
+
+            .relative{
+                background-color: lightcoral;
+                position: relative;
+                top: 30px;
+                left: 50px;
+            }
+
+            .absolute{
+                background-color: lightgreen;
+                position: absolute;
+                top: 30px;
+                left: 50px;
+            }
+
+            .fixed{
+                background-color: lightseagreen;
+                position: fixed;
+                top: 10px;
+                right: 10px;
+            }
+
+            .sticky{
+                background-color: lightpink;
+                position: sticky;
+                top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="box static">Static</div>
+        <div class="box relative">Relative</div>
+        <div class="box absolute">Absolute</div>
+        <div class="box fixed">Fixed</div>
+        <div class="box sticky">Sticky</div>
+    </body>
+</html>
