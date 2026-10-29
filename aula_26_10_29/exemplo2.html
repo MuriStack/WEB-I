@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Posicionamento</title>
+        <style>
+            .box{
+                width: 100px;
+                height: 100px;
+                position: absolute;
+            }
+
+            .box1{
+                background-color: lightblue;
+                top: 50px;
+                left: 50px;
+                z-index: 1;
+            }
+
+            .box2{
+                background-color: lightcoral;
+                top: 80px;
+                left: 130px;
+                z-index: 2;
+            }
+
+            .box3{
+                background-color: lightgreen;
+                top: 110px;
+                left: 210px;
+                z-index: 3;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="box box1">Z-Index 1</div>
+        <div class="box box2">Z-Index 2</div>
+        <div class="box box3">Z-Index 3</div>
+    </body>
+</html>
