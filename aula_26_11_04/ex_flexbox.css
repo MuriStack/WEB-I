@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+section{
+    display: flex;
+    flex-direction: row;
+    background-color: #CCCCCC;
+    border: 2px dashed #EEEEEE;
+    margin-bottom: 20px;
+    min-height: 100px;
+}
+
+.box{
+    background-color: chartreuse;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#direction{
+    flex-direction: row;
+}
+
+#justify{
+    justify-content: space-evenly;
+}
