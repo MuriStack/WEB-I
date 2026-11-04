@@ -25,9 +25,22 @@ section{
 }
 
 #direction{
-    flex-direction: row;
+    flex-direction: row-reverse;
 }
 
 #justify{
     justify-content: space-evenly;
+}
+
+#align-items{
+    align-items: center;
+}
+
+#wrap{
+    flex-wrap: wrap;
+}
+
+#gap{
+    flex-wrap: wrap;
+    gap: 50px;
 }
