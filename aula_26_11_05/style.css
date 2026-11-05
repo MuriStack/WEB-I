@@ -1,0 +1,255 @@
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #26352e;
+    background-color: #f8f7f2;
+    line-height: 1.5;
+}
+
+h1, h2, h3, p {
+    margin-top: 0;
+}
+
+a {
+    color: #21543e;
+}
+
+header {
+    background-color: #244d39;
+    color: white;
+}
+
+.cabecalho {
+    padding: 20px;
+    text-align: center;
+}
+
+.cabecalho h2 {
+    margin-bottom: 4px;
+}
+
+.cabecalho p {
+    margin-bottom: 0;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 10px;
+    background-color: #193c2b;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.menu a:hover {
+    background-color: #3d7758;
+}
+
+.apresentacao {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 35px;
+    margin: 25px auto;
+    max-width: 1080px;
+    background-color: #e8efe7;
+    border-radius: 10px;
+}
+
+.apresentacao h1 {
+    font-size: 32px;
+    margin-bottom: 12px;
+}
+
+.apresentacao img {
+    width: 380px;
+    border-radius: 8px;
+}
+
+.botao {
+    display: inline-block;
+    margin-top: 8px;
+    padding: 10px 15px;
+    background-color: #244d39;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.botao:hover {
+    background-color: #3d7758;
+}
+
+.secao {
+    max-width: 1080px;
+    margin: 45px auto;
+    padding: 0 15px;
+}
+
+.secao h2 {
+    margin-bottom: 5px;
+    font-size: 26px;
+}
+
+.subtitulo {
+    color: #5e6c62;
+    margin-bottom: 22px;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    padding: 15px;
+    border: 2px solid #b1c8b5;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+
+.card img {
+    width: 216px;
+    height: 140px;
+    border-radius: 5px;
+    margin-bottom: 12px;
+}
+
+.card h3 {
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+.card p {
+    font-size: 14px;
+    margin-bottom: 12px;
+}
+
+.card a {
+    margin-top: auto;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.card a:hover {
+    text-decoration: underline;
+}
+
+.etiqueta {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 5px 8px;
+    background-color: #d48b43;
+    color: #ffffff;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.informacoes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.informacao {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    min-width: 190px;
+    padding: 15px;
+    border: 1px solid #b1c8b5;
+    border-radius: 8px;
+    background-color: #e8efe7;
+}
+
+table {
+    width: 1052px;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th, td {
+    border: 1px solid #becbc0;
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background-color: #244d39;
+    color: white;
+}
+
+.contato {
+    background-color: #e8efe7;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.contato p {
+    margin-bottom: 0;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    padding: 25px 15px;
+    background-color: #193c2b;
+    color: white;
+    text-align: center;
+}
+
+footer p {
+    margin-bottom: 0;
+}
+
+.voltar-topo {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    padding: 10px 12px;
+    border-radius: 6px;
+    background-color: #244d39;
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.voltar-topo:hover {
+    background-color: #3d7758;
+}
